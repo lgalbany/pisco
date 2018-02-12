@@ -1,7 +1,6 @@
 # The PMAS/PPak Integral field Supernova hosts COmpilation (PISCO)
 
-[![DOI](https://zenodo.org/badge/47784041.svg)](https://zenodo.org/badge/latestdoi/47784041)
-
+[![DOI](https://zenodo.org/badge/1172088.svg)](https://zenodo.org/badge/latestdoi/1172088)
 [![arXiv:1802.01589](https://img.shields.io/badge/astro--ph.GA-arXiv%3A1802.01589-B31B1B.svg)](https://arxiv.org/abs/1802.01589)
 
 This repository will contain tables and dataproducts from PISCO. 

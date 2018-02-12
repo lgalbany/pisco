@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/1172088.svg)](https://zenodo.org/badge/latestdoi/1172088)
 [![arXiv:1802.01589](https://img.shields.io/badge/astro--ph.GA-arXiv%3A1802.01589-B31B1B.svg)](https://arxiv.org/abs/1802.01589)
-![GitHub issue last update](https://img.shields.io/badge/style-plastic-green.svg?updated=February 2018)
+![GitHub issue last update](https://img.shields.io/badge/Updated-February%202018-green.svg)
 
 This repository will contain tables and dataproducts from PISCO. 
 

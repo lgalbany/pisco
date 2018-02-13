@@ -1,0 +1,1 @@
+### This galaxy has no 'total' spectrum due to its large size, and becasue we only got 1 PMAS/PPak pointing

@@ -6,6 +6,8 @@
 
 This repository contains the following tables and dataproducts from PISCO. 
 
+Currently PISCO consists of **272** SNe in **232** galaxies and have run for **5** semesters (_Updated 2018 February 10_).
+
 If you are interested in something in particular, please drop an e-mail to lluisgalbany at gmail dot com.
 
 ### em_lines
@@ -26,7 +28,7 @@ Local environmental spectra of 272 SN locations. Four columns: wavelength, flux,
 
 ### tables
 
-Machine-readable and TeX versions of Tables 2 and 3 of the PISCO paper.
+Machine-readable and TeX versions of Tables 1, 2, 3 and 6 of the PISCO paper.
 
 ### total_sp
 

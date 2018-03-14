@@ -16,6 +16,7 @@ If you are interested in something in particular, please drop an e-mail to lluis
 - Galbany et al. 2016
 - Galbany et al. 2018
 - de Jaeger et al. in prep. 
+- González-Gaitán et al. in prep.
 - Xiao et et al. in prep. --->
 
 

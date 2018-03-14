@@ -12,7 +12,7 @@ If you are interested in something in particular, please drop an e-mail to lluis
 
 
 <!--- Publications using PISCO data:
-<> - Galbany et al. 2014
+- Galbany et al. 2014
 - Galbany et al. 2016
 - Galbany et al. 2018
 - de Jaeger et al. in prep. 

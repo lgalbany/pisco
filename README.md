@@ -10,6 +10,16 @@ Currently PISCO consists of **290** SNe in **249** galaxies and have run for **6
 
 If you are interested in something in particular, please drop an e-mail to lluisgalbany at gmail dot com.
 
+
+<!--- Publications using PISCO data:
+<> - Galbany et al. 2014
+- Galbany et al. 2016
+- Galbany et al. 2018
+- de Jaeger et al. in prep. 
+- Xiao et et al. in prep. --->
+
+
+
 ### em_lines
 
 2D maps of fluxes (PRIMARY) and errors (EXT=1) for a few emission lines: Halpha, Hbeta, [O III] 5007, [N II] 6583, and [S II] 6719,31.

@@ -6,7 +6,7 @@
 
 This repository contains the following tables and dataproducts from PISCO. 
 
-Currently PISCO consists of **296** SNe in **254** galaxies and have run for **6** semesters (_Updated 2018 March 20_). However, data in this repo is for objects presented in the PISCO paper (272 SNe in 232 galaxies).
+Currently PISCO consists of **295** SNe in **253** galaxies and have run for **6** semesters (_Updated 2018 March 20_). However, data in this repo is for objects presented in the PISCO paper (272 SNe in 232 galaxies).
 
 If you are interested in something in particular, please drop an e-mail to lluisgalbany at gmail dot com.
 

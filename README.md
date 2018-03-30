@@ -1,6 +1,6 @@
 # The PMAS/PPak Integral field Supernova hosts COmpilation (PISCO)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1172088.svg)](https://doi.org/10.5281/zenodo.1172088)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1172732.svg)](https://doi.org/10.5281/zenodo.1172732)
 [![arXiv:1802.01589](https://img.shields.io/badge/astro--ph.GA-arXiv%3A1802.01589-B31B1B.svg)](https://arxiv.org/abs/1802.01589)
 ![](https://img.shields.io/badge/Updated-March%202018-green.svg)
 

@@ -2,11 +2,11 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1172732.svg)](https://doi.org/10.5281/zenodo.1172732)
 [![arXiv:1802.01589](https://img.shields.io/badge/astro--ph.GA-arXiv%3A1802.01589-B31B1B.svg)](https://arxiv.org/abs/1802.01589)
-![](https://img.shields.io/badge/Updated-December%232018-green.svg)
+![](https://img.shields.io/badge/Updated-May%232019-green.svg)
 
 This repository contains the following tables and dataproducts from PISCO. 
 
-Currently PISCO consists of **359** SNe in **308** galaxies and have run for **7** semesters (_Updated 2018 Decemeber 21_). However, data in this repo is for objects presented in the PISCO paper (272 SNe in 232 galaxies).
+Currently PISCO consists of **375** SNe in **319** galaxies and have run for **7** semesters (_Updated 2019 May 14_). However, data in this repo is for objects presented in the PISCO paper (272 SNe in 232 galaxies).
 
 If you are interested in something in particular, please drop an e-mail to lluisgalbany at gmail dot com.
 

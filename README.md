@@ -2,11 +2,11 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1172732.svg)](https://doi.org/10.5281/zenodo.1172732)
 [![arXiv:1802.01589](https://img.shields.io/badge/astro--ph.GA-arXiv%3A1802.01589-B31B1B.svg)](https://arxiv.org/abs/1802.01589)
-![](https://img.shields.io/badge/Updated-May%232019-green.svg)
+![](https://img.shields.io/badge/Updated-Sep%232019-green.svg)
 
 This repository contains the following tables and dataproducts from PISCO. 
 
-Currently PISCO consists of **375** SNe in **319** galaxies and have run for **8** semesters (_Updated 2019 May 14_). However, data in this repo is for objects presented in the PISCO paper (272 SNe in 232 galaxies).
+Currently PISCO consists of **396** SNe in **337** galaxies and have run for **9** semesters (_Updated 2019 Sep 11_). However, data in this repo is for objects presented in the PISCO paper (272 SNe in 232 galaxies).
 
 If you are interested in something in particular, please drop an e-mail to lluisgalbany at gmail dot com.
 
@@ -14,10 +14,12 @@ If you are interested in something in particular, please drop an e-mail to lluis
 <!--- Publications using PISCO data:
 - Galbany et al. 2014 CALIFA-I
 - Galbany et al. 2016 CALIFA-II
+- Galbany et al. 2017 EDGE
 - Galbany et al. 2018 PISCO presentation
 - Galbany et al. 2019 SN2016hnk
 - de Jaeger et al. 2018 SN2016esw
 - González-Gaitán et al. 2019 INLA
+- Cobá otuflows ?
 - Xiao et et al. 2019 BPASS --->
 
 

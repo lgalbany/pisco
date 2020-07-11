@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1172732.svg)](https://doi.org/10.5281/zenodo.1172732)
 [![arXiv:1802.01589](https://img.shields.io/badge/astro--ph.GA-arXiv%3A1802.01589-B31B1B.svg)](https://arxiv.org/abs/1802.01589)
-![](https://img.shields.io/badge/Updated-Sep%232019-green.svg)
+![](https://img.shields.io/badge/Updated-Jul%232020-green.svg)
 
 This repository contains the following tables and dataproducts from PISCO. 
 

@@ -6,22 +6,26 @@
 
 This repository contains the following tables and dataproducts from PISCO. 
 
-Currently PISCO consists of **418** SNe in **355** galaxies and have run for **10** semesters (_Updated 2020 Jul 11_). However, data in this repo is for objects presented in the PISCO paper (272 SNe in 232 galaxies).
+Currently PISCO consists of **425** SNe in **362** galaxies and have run for **10** semesters (_Updated 2021 Feb 14_). However, data in this repo is for objects presented in the PISCO paper (272 SNe in 232 galaxies).
 
 If you are interested in something in particular, please drop an e-mail to lluisgalbany at gmail dot com.
 
 
-<!--- Publications using PISCO data:
+<!--- 
+Publications using PISCO data (12):
 - Galbany et al. 2014 CALIFA-I
 - Galbany et al. 2016 CALIFA-II
 - Galbany et al. 2017 EDGE
 - Galbany et al. 2018 PISCO presentation
-- Galbany et al. 2019 SN2016hnk
 - de Jaeger et al. 2018 SN2016esw
+- Xiao et et al. 2019 BPASS
 - González-Gaitán et al. 2019 INLA
-- Cobá otuflows ?
-- Xiao et et al. 2019 BPASS --->
-
+- Systematic study of outflows in the Local Universe using CALIFA: I. Sample selection and main properties, López-Cobá et al. 2019 MNRAS 482 4032 [https://ui.adsabs.harvard.edu/#abs/2019MNRAS.482.4032L]
+- Evidence for a Chandrasekhar-mass explosion in the Ca-strong 1991bg-like type Ia supernova 2016hnk, Galbany et al. 2019 A&A 630 A76 [https://ui.adsabs.harvard.edu/abs/2019A%26A...630A..76G/abstract]
+- Galaxies hosting an AGN: a view from the CALIFA survey, Lacerda et al. 2020 MNRAS 492 3073 [https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.3073L/abstract]
+- H II regions in the CALIFA survey: I. catalogue presentation, Espinosa-Ponce et al., 2020 MNRAS 494 1622 [https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.1622E/abstract]
+- The stellar metallicity distribution function of galaxies in the CALIFA survey, Mejía-Narváez et al. 2020 MNRAS 499 4838 [https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.4838M/abstract]
+--->
 
 
 ### em_lines
